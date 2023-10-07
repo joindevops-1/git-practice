@@ -14,3 +14,4 @@ feature-3 commit-1
 feature-3 commit-2
 feature-3 commit-3
 merge-test commit-1
+merge-test commit-3
