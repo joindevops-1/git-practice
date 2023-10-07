@@ -9,3 +9,4 @@ commit-4, from feature-1
 commit-5, from feature-1
 feature-2 commit-1
 feature-2 commit-2
+feature-2 commit-3
