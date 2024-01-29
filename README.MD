@@ -10,3 +10,6 @@
 ### checking rebase
 * This is to test rebase, commit-1
 * This is to test rebase, commit-2
+
+### checking rebase local
+* This is to test rebase local, commit-1
