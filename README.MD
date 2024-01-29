@@ -13,3 +13,4 @@
 
 ### checking rebase local
 * This is to test rebase local, commit-1
+* This is to test rebase local, commit-2
